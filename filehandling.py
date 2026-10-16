@@ -1,8 +1,8 @@
 # Program 1: Create a file and write student details
 
 with open("student.txt", "w") as file:
-    file.write("Name: sayali Deshmane\n")
-    file.write("Roll No: 137\n")
+    file.write("Name: Tanvi Kodoli\n")
+    file.write("Roll No: 146\n")
     file.write("Branch: CSE\n")
     file.write("Semester: 5\n")
 
