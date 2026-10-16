@@ -13,7 +13,7 @@ Convert the dictionary into a Pandas DataFrame and:
 import pandas as pd
 d = {
     "Id": [101, 102, 103, 104, 105],
-    "Name": ["Sayali", "Anushka", "Sanika", "Payal", "Punam"],
+    "Name": ["Tanvi", "Piya", "Saniya", "Pallavi", "Purvi"],
     "Python": [75, 34, 67, 89, 12],
     "DBMS": [33, 56, 90, 44, 11],
     "Maths": [88, 56, 34, 12, 90]
@@ -45,7 +45,7 @@ Convert it into a Pandas DataFrame and:
 
 emp={
      "emp id":[2,3,4],
-     "emp name":["Sayali","Shreya","Deepali"],
+     "emp name":["Tanvi","Shreya","Soham"],
      "dept":["HR","Testing","Debugging"],
      "salary":[50000,30000,20000],
      "Experience":[2,3,4]}
@@ -143,7 +143,7 @@ Then display:
 import pandas as pd
 dict4 = {
     "Order_ID": [101, 102, 103, 104, 105],
-    "Customer": ["Sayali", "Shreya", "Anushka", "Sanika", "Payal"],
+    "Customer": ["Tanvi", "Shreya", "Tanu", "Tanuja", "Payal"],
     "Product": ["Laptop", "Mouse", "Keyboard", "Monitor", "Printer"],
     "Quantity": [2, 5, 3, 1, 4],
     "Price": [40000, 1000, 2000, 12000, 5000],
@@ -173,7 +173,7 @@ Display students whose attendance is below 75%."""
 import pandas as pd
 dict5 = {
     "Student_ID": [101, 102, 103, 104, 105],
-    "Name": ["Sayali", "Shreya", "Anushka", "Sanika", "Payal"],
+    "Name": ["Tanvi", "Riya", "Anushka", "Sanika", "Payal"],
     "Department": ["CSE", "CSE", "IT", "CSE", "IT"],
     "Total_Classes": [100, 100, 80, 90, 100],
     "Classes_Attended": [85, 70, 60, 80, 65]
