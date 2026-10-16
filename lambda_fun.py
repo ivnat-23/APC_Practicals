@@ -108,9 +108,9 @@ print("Sorted words =", result)
 
 #47. Sort students according to marks
 students = [
-    ("Sayali", 85),
+    ("Tanvi", 85),
     ("Anushka", 72),
-    ("Shreya", 90),
+    ("Tanu", 90),
     ("Sanika", 78)
 ]
 
@@ -139,7 +139,7 @@ for employee in result:
 #b) Filter students scoring above 75
 #c) Sort students according to marks
 students = [
-    ("Sayali", 85),
+    ("Tanvi", 85),
     ("Anushka", 72),
     ("Shreya", 90),
     ("Sanika", 78),
